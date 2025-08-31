@@ -7,8 +7,8 @@
 // @match        https://old.reddit.com/r/*/comments/*
 // @grant        GM_addStyle
 // @run-at       document-start
-// @updateURL    https://raw.githubusercontent.com/nullgull/userscripts/mainline/scripts/old-reddit-indent-guides.user.js
-// @downloadURL  https://raw.githubusercontent.com/userscripts/mainline/scripts/old-reddit-indent-guides.user.js
+// @updateURL    https://raw.githubusercontent.com/nullgull/userscripts/refs/heads/mainline/scripts/old-reddit-indent-guides.user.js
+// @downloadURL  https://raw.githubusercontent.com/nullgull/userscripts/refs/heads/mainline/scripts/old-reddit-indent-guides.user.js
 // ==/UserScript==
 
 (function () {

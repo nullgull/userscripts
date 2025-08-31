@@ -6,8 +6,8 @@
 // @description  Center thread content on Old Reddit
 // @match        https://old.reddit.com/r/*/comments/*
 // @grant        GM_addStyle
-// @updateURL    https://raw.githubusercontent.com/nullgull/userscripts/mainline/scripts/old-reddit-center-content.user.js
-// @downloadURL  https://raw.githubusercontent.com/userscripts/mainline/scripts/old-reddit-center-content.user.js
+// @updateURL    https://raw.githubusercontent.com/nullgull/userscripts/refs/heads/mainline/scripts/old-reddit-center-content.user.js
+// @downloadURL  https://raw.githubusercontent.com/nullgull/userscripts/refs/heads/mainline/scripts/old-reddit-center-content.user.js
 // ==/UserScript==
 
 (function () {

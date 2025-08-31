@@ -7,7 +7,7 @@
 // @match        https://www.google.com/travel/flights*
 // @grant        none
 // @updateURL    https://raw.githubusercontent.com/nullgull/userscripts/refs/heads/mainline/scripts/google-flights-remove-emissions.user.js
-// @downloadURL  https://raw.githubusercontent.com/nullgull/userscripts/mainline/refs/heads/scripts/google-flights-remove-emissions.user.js
+// @downloadURL  https://raw.githubusercontent.com/nullgull/userscripts/refs/heads/mainline/scripts/google-flights-remove-emissions.user.js
 // ==/UserScript==
 
 (function () {
